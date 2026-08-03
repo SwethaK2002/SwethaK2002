@@ -1,4 +1,4 @@
-# Hi 👋 Im Swetha.K 👇:
+# Hi Im Swetha.K 👇:
 <p align="left">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&width=500&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Business+Intelligence+Enthusiast;Always+Learning+New+Technologies" />
