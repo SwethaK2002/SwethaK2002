@@ -1,4 +1,5 @@
 # Im Swetha.K 👇:
+<img align="right" alt="Data Analytics" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh0dGF4OW5rd3NnZjFwNnR2dGN3d2d3NnR6ZnY5OHl4Zjdvb2VjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
 Hey there! Thanks for stopping by to learn a bit about my journey and expertise.
 
 I’m a Business and Data Analytics Specialist, transitioning from a Product Executive role, passionate about transforming operational data into business insights that drive measurable efficiency. 
