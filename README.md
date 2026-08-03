@@ -1,17 +1,14 @@
 # Im Swetha.K 👇:
-<img align="right" alt="Data Analytics" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh0dGF4OW5rd3NnZjFwNnR2dGN3d2d3NnR6ZnY5OHl4Zjdvb2VjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh0dGF4OW5rd3NnZjFwNnR2dGN3d2d3NnR6ZnY5OHl4Zjdvb2VjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="500" alt="Data Analytics">
+</p>
 Hey there! Thanks for stopping by to learn a bit about my journey and expertise.
 
-I’m a Business and Data Analytics Specialist, transitioning from a Product Executive role, passionate about transforming operational data into business insights that drive measurable efficiency. 
-With 1.9 years of hands-on experience at TCS, I’ve developed a deep appreciation for the power of clean, well-governed data in improving business performance.
+I'm Swetha K, a Data Analyst with 2.7 years of experience in Data Operations, Business Intelligence, and Process Automation. I enjoy transforming raw data into meaningful insights using SQL, Power BI, Python, Excel, and VBA.
 
-I specialize in using SQL for data validation and governance, and Power BI for tracking production and performance metrics.
+This GitHub showcases my projects in data analysis, dashboard development, SQL, Python, and Excel automation, demonstrating practical solutions to real-world business problems.
 
-As a Senior Attribute Tagger, I’ve implemented client-approved process improvements through JIRA, developed pilot project documentation, and trained team members on new workflows.
-
-My work spans the entire product readiness cycle from data verification and Product ID creation (Stella) to asset deployment (Titan/WinSCP) and final page activation.<br>Certified and skilled in SQL Server, Power BI, Tableau, Python, Advanced Excel, EDA Analysis, and Statistics, I’m equally proficient in managing operational workflows using JIRA, Stella, Titan, and WinSCP.
-
-I’m driven by one goal: to simplify operational complexity into clear, actionable insights through data visualization and analytics — making data more accessible, insightful, and valuable for business growth.<br>
+🌱 Currently learning: Data Engineering and Data Science.
 
 
 ## 🌐 Socials:
