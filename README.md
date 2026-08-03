@@ -1,6 +1,12 @@
 # Im Swetha.K 👇:
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh0dGF4OW5rd3NnZjFwNnR2dGN3d2d3NnR6ZnY5OHl4Zjdvb2VjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="500" alt="Data Analytics">
+# Hi 👋 I'm Swetha K
+
+### Data Analyst | SQL | Power BI | Python | Excel | VBA
+
+<p align="left">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&width=500&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Business+Intelligence+Enthusiast;Always+Learning+New+Technologies" />
+</a>
 </p>
 Hey there! Thanks for stopping by to learn a bit about my journey and expertise.
 
